@@ -1,3 +1,13 @@
+.container {
+    flex-direction: column;
+    text-align: center;
+}
+
+.Day {
+    color: #ecf0f1;
+    font-size: 35px;
+}
+
 .Clock {
     color: #ecf0f1;
     font-size: 35px;
