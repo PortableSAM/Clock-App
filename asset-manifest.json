@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Clock-App/static/css/main.cd52c6a3.chunk.css",
+    "main.js": "/Clock-App/static/js/main.c937dc74.chunk.js",
+    "main.js.map": "/Clock-App/static/js/main.c937dc74.chunk.js.map",
+    "runtime-main.js": "/Clock-App/static/js/runtime-main.7edec6a5.js",
+    "runtime-main.js.map": "/Clock-App/static/js/runtime-main.7edec6a5.js.map",
+    "static/js/2.1be15710.chunk.js": "/Clock-App/static/js/2.1be15710.chunk.js",
+    "static/js/2.1be15710.chunk.js.map": "/Clock-App/static/js/2.1be15710.chunk.js.map",
+    "index.html": "/Clock-App/index.html",
+    "precache-manifest.58efa18153f9aa4fa6ecd159fde92e42.js": "/Clock-App/precache-manifest.58efa18153f9aa4fa6ecd159fde92e42.js",
+    "service-worker.js": "/Clock-App/service-worker.js",
+    "static/css/main.cd52c6a3.chunk.css.map": "/Clock-App/static/css/main.cd52c6a3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7edec6a5.js",
+    "static/js/2.1be15710.chunk.js",
+    "static/css/main.cd52c6a3.chunk.css",
+    "static/js/main.c937dc74.chunk.js"
+  ]
+}
