@@ -2,6 +2,7 @@
   "name": "clock",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://PortableSAM.github.io/Clock-App",
   "dependencies": {
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
@@ -13,7 +14,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build&&gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
